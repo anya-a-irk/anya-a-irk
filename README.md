@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anya-a-irk
-- 👀 I’m interested in data analysis, NLP, CV, ML, robotics
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on NLP project
+- 👀 I’m interested in data analysis, NLP, CV, ML, robotics, UX/UI
+- 🌱 I’m currently data analysis
+- 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me anya.a.irk@gmail.com
 
 <!---
